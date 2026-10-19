@@ -1,0 +1,27 @@
+
+# Local backup files
+app_copy.py
+*_backup.py
+*.bak
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Local databases and backups
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables and secrets
+.env
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
